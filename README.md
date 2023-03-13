@@ -16,7 +16,7 @@ All codes are written in C++.
 - Template Classes
 - Inheritance
 - Polymorphism
-- Funtion overloading/overriding
+- Function overloading/overriding
 - Object Oriented Programming (OOP)
 - Exception handeling
 - Streams
